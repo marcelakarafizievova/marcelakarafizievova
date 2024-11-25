@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @marcelakarafizievova
+- 👀 I’m interested in frontend
+- I'm a proud Applifter.
